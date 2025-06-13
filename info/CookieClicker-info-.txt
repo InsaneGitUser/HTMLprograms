@@ -1,4 +1,3 @@
-     CookieClicker:
 Devolped By: Orteil
 Released: Oct/5/2020
-Description: A Clicker Game written in javascript where you click a cookie and nothing else
+Description: A Clicker Game written in javascript where you click a cookie and nothing else.
